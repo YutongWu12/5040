@@ -28,7 +28,17 @@ The course covers a range of topics, including:
 
 8. **Unsupervised Learning**
    - Explored clustering and dimensionality reduction for data without labels.
+   - 
+## Repository Structure
+The repository contains the following files:
 
+1. `1_intermediate_coder.ipynb`: Homework notebook for intermediate coding techniques.
+2. `2_Linear_Regression_Test.ipynb`: Assignment on linear regression applications.
+3. `3_FinML_Loan_Classification.ipynb`: Notebook for classifying loan data.
+4. `4_Feature_Engineering_+_DL_Model.ipynb`: Experimenting with feature engineering and deep learning models.
+5. `5_New_Dataset_Nixtla_Playground.ipynb`: Exploring new datasets for time-series analysis.
+6. `Online Retail.xlsx`: Dataset used for coursework and assignments.
+7. `energydata_complete.csv`: Dataset related to energy data for specific assignments.
 
 ## Key Learning Outcomes
 - Developed skills in Python libraries such as Pandas, Numpy, and Scikit-learn.
